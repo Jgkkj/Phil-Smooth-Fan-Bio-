@@ -1,0 +1,113 @@
+Título: Phil Smooth Site
+
+Conteúdo:
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Phil Smooth</title>
+
+<style>
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f0f0f;
+  color: white;
+}
+
+header {
+  padding: 60px 20px;
+  text-align: center;
+  background: #111;
+}
+
+h1 {
+  margin: 0;
+  font-size: 42px;
+}
+
+p {
+  color: #aaa;
+}
+
+section {
+  max-width: 800px;
+  margin: auto;
+  padding: 40px 20px;
+}
+
+h2 {
+  border-left: 4px solid white;
+  padding-left: 10px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  padding: 10px;
+  background: #1a1a1a;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+
+footer {
+  text-align: center;
+  padding: 30px;
+  color: #666;
+  font-size: 12px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+  <h1>Phil Smooth</h1>
+  <p>Hip-hop • Trap melódico • R&B alternativo</p>
+</header>
+
+<section>
+  <h2>Sobre</h2>
+  <p>
+    Phil Smooth é um artista independente que trabalha com hip-hop e R&B alternativo,
+    focado em músicas emocionais, melódicas e introspectivas.
+  </p>
+</section>
+
+<section>
+  <h2>Discografia</h2>
+  <ul>
+    <li>2 Late</li>
+    <li>Fake Love</li>
+    <li>Real Or Fake</li>
+    <li>Both Sides</li>
+    <li>Time</li>
+    <li>Connections</li>
+    <li>Phony</li>
+    <li>Stressing Me</li>
+    <li>Rule The World (ft.)</li>
+    <li>Calm Down (ft.)</li>
+    <li>Sí (ft.)</li>
+    <li>High Speed (ft.)</li>
+    <li>Being This Smooth (ft.)</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Estilo</h2>
+  <p>
+    Mistura de trap melódico, R&B e rap introspectivo com foco em emoção e narrativa pessoal.
+  </p>
+</section>
+
+<footer>
+  Fan-made website • Phil Smooth
+</footer>
+
+</body>
+</html>
